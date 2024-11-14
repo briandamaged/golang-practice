@@ -1,6 +1,7 @@
 go 1.23.3
 
-// FYI: Normally, this file would not be committed to the repo
+// FYI: Normally, this file would not be committed to the repo.
+
 
 use (
 	./election_app
